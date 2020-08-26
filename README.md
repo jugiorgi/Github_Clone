@@ -29,6 +29,10 @@ yarn start
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/jugiorgi/Github_Clone/master/src/assets/preview/dark_pink-desktop.PNG" width="1000" alt="Pink Desktop">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/jugiorgi/Github_Clone/master/src/assets/preview/light-desktop.PNG" width="1000" alt="Light Desktop">
 </p>
 
