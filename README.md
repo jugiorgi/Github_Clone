@@ -25,16 +25,15 @@ yarn start
 ## Aplicação
 
 <p align="center">
-  <img src="" width="1000" alt="Dark Desktop">
+  <img src="https://raw.githubusercontent.com/jugiorgi/Github_Clone/master/src/assets/preview/dark-desktop.PNG" width="1000" alt="Dark Desktop">
 </p>
 
 <p align="center">
-  <img src="" width="1000" alt="Light Desktop">
+  <img src="https://raw.githubusercontent.com/jugiorgi/Github_Clone/master/src/assets/preview/light-desktop.PNG" width="1000" alt="Light Desktop">
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/jugiorgi/Github_Clone/master/src/assets/preview/dark-mobile.PNG" width="500" alt="Dark Mobile">
 
 <p align="center">
-<img src="" width="500" alt="Dark Mobile">
-
-<p align="center">
-<img src="" width="500" alt="Light Mobile">
+<img src="https://raw.githubusercontent.com/jugiorgi/Github_Clone/master/src/assets/preview/light-mobile.PNG" width="500" alt="Light Mobile">
