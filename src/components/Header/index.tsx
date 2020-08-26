@@ -21,9 +21,9 @@ const Header: React.FC<Props> = ({ themeName, setThemeName }) => {
   }
 
   function toogleTheme(){
-    setThemeName(themeName === 'light' ? 'dark' : 'light');
+    setThemeName(themeName === 'light' ? 'dark' : themeName === 'dark' ? 'dark_pink' : 'light');
   }
-
+  
   return (
     <Container>
       <GithubLogo  onClick={toogleTheme}/>

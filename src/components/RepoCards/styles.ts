@@ -73,6 +73,14 @@ export const Botside = styled.div`
             background: var(--other-language);
         }
 
+        &.html {
+            background: var(--html);
+        }
+
+        &.java {
+            background: var(--java);
+        }
+
         &.javascript {
             background: var(--javascript);
         }
